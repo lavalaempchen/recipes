@@ -1,7 +1,5 @@
 # Naan Brot
 
-leicht süßer, fluffiger Hefezopf. Das beste an Hefezopf was passieren kann…
-
 <!-- ![](images/naan.jpg) -->
 
 *Beilage, Vegan, Indisch*
