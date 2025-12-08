@@ -2,7 +2,7 @@
 
 leicht süßer, fluffiger Hefezopf. Das beste an Hefezopf was passieren kann…
 
-
+<!-- ![](images/wasser-challah.jpg) -->
 
 *Frühstück, Vegan, Jüdisch, Deutsch, Beilage*
 

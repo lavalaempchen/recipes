@@ -1,5 +1,6 @@
 # Crêpe
 
+<!-- ![](images/crepe.jpg) -->
 
 *Frühstück, Vegetarisch, Französisch*
 

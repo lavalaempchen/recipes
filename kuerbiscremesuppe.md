@@ -2,7 +2,7 @@
 
 herbstlich und evtl. sogar voll Vitamine (wenn wir außer Acht lassen, das es gekocht wird…)
 
-
+<!-- ![](images/kuerbiscremesuppe.jpg) -->
 
 *Hauptgericht, Vegan, Deutsch*
 
